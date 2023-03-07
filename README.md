@@ -6,6 +6,6 @@
 
 3 - Simple Project Made In 5 Minutes
 
-![alt text](https://github.com/Dark1NF1N17Y/Arudino-Gaz-Detection/blob/main/Project.png?raw=true)
+![alt text](https://github.com/Dark1NF1N17Y/Arduino-Traffic-Light-With-LCD/blob/main/Project.png?raw=true)
 
 **CopyRight 1NF1N17Y 2023**
