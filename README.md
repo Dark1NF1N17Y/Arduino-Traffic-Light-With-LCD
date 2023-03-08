@@ -2,9 +2,11 @@
 
 1 - Arduino Traffic Light With Countdown Displayed On LCD
 
-2 - Every 5 Seconds The Light Changes
+2 - You Can Change 'maincount' Int To Change The Timer
 
-3 - Simple Project Made In 5 Minutes
+3 - When The Countdown Ends The Lights Changes
+
+4 - If Something Is Wrong Don't Be Confused And Wait The Update
 
 ![alt text](https://github.com/Dark1NF1N17Y/Arduino-Traffic-Light-With-LCD/blob/main/Project.png?raw=true)
 
